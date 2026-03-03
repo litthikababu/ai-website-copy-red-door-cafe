@@ -1,1 +1,13 @@
+Rewrite the provided website copy in the following tone variations:
 
+1. Friendly and warm (ideal for cafes and salons)
+2. Professional and clinical (ideal for clinics)
+3. Confident and strategic (ideal for agencies)
+4. Youthful and energetic (ideal for student-focused brands)
+
+Rules:
+- Do not change the structure
+- Maintain the core message
+- Keep it persuasive
+- Avoid fluff
+- Keep sentences clear and impactful
