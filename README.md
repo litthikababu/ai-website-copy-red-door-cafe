@@ -4,7 +4,7 @@ The system leverages structured input blocks, output constraints, and tone adapt
 
 Case Study: Red Door Cafe (Coimbatore)
 
-## Project Overview
+Project Overview
 This project demonstrates a structured prompt engineering system that generates high-converting website copy for local businesses.
 
 Instead of producing generic AI text, this framework:
